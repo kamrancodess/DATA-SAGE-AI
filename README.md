@@ -8,52 +8,48 @@ This project combines a modern Next.js frontend, a FastAPI backend, SQLite data 
 
 ## Screenshots And Demo Videos
 
-Media folders are prepared, but real screenshot/video files have not been added yet:
+The following screenshots show the current Data Sage AI interface, including QueryForge, InfraSage, Metrics, generated SQL, result tables, and chart interactions.
 
-- Screenshots: `docs/screenshots/`
-- Demo videos: `docs/demo-videos/`
+### QueryForge
 
-Because the media files are not uploaded yet, the README intentionally does not display clickable media links here. This avoids broken GitHub links. Add your real files using the filenames below, then replace this note with the image/video links shown under "Markdown To Use After Adding Media".
+![QueryForge input and sample questions](docs/screenshots/queryforge-input.png)
 
-### Screenshots To Add
+![QueryForge empty state ready for a question](docs/screenshots/queryforge-empty-state.png)
 
-| Section | File path | What it should show |
-|---|---|---|
-| Hero / Landing Page | `docs/screenshots/hero.png` | Main Data Sage AI landing page and navigation |
-| QueryForge | `docs/screenshots/queryforge.png` | Natural-language question, generated SQL, result chart, and table |
-| InfraSage | `docs/screenshots/infrasage.png` | Log input, detected issues, severity, timeline, and suggested fixes |
-| Metrics | `docs/screenshots/metrics.png` | Query volume, latency, resource utilization, and error-rate charts |
-| Insights | `docs/screenshots/insights.png` | Forecast, anomalies, user segments, and recommendation cards |
+![QueryForge generating SQL with the active local model](docs/screenshots/queryforge-generating.png)
 
-### Demo Videos To Add
+![QueryForge model availability message](docs/screenshots/queryforge-model-error.png)
 
-| Demo | File path | What it should demonstrate |
-|---|---|---|
-| Full Product Walkthrough | `docs/demo-videos/full-demo.mp4` | Landing page, QueryForge, InfraSage, Metrics, and Insights |
-| QueryForge Demo | `docs/demo-videos/queryforge-demo.mp4` | Asking database questions and viewing SQL/results |
-| InfraSage Demo | `docs/demo-videos/infrasage-demo.mp4` | Pasting logs and receiving diagnosis/fixes |
-| Insights Demo | `docs/demo-videos/insights-demo.mp4` | Changing insight questions and viewing dynamic scenario outputs |
+![QueryForge query results table](docs/screenshots/queryforge-results-table.png)
 
-### Markdown To Use After Adding Media
+![QueryForge generated SQL view](docs/screenshots/queryforge-generated-sql.png)
 
-Screenshot links:
+![QueryForge bar chart with hover tooltip](docs/screenshots/queryforge-bar-chart.png)
 
-```md
-![Data Sage AI Hero](docs/screenshots/hero.png)
-![QueryForge Dashboard](docs/screenshots/queryforge.png)
-![InfraSage Log Analysis](docs/screenshots/infrasage.png)
-![Metrics Dashboard](docs/screenshots/metrics.png)
-![Insights Intelligence Layer](docs/screenshots/insights.png)
-```
+### InfraSage
 
-Video links:
+![InfraSage log analysis detected issues](docs/screenshots/infrasage-analysis.png)
 
-```md
-[Watch Full Demo](docs/demo-videos/full-demo.mp4)
-[Watch QueryForge Demo](docs/demo-videos/queryforge-demo.mp4)
-[Watch InfraSage Demo](docs/demo-videos/infrasage-demo.mp4)
-[Watch Insights Demo](docs/demo-videos/insights-demo.mp4)
-```
+![InfraSage suggested fixes panel](docs/screenshots/infrasage-fixes.png)
+
+### Metrics
+
+![Metrics overview with query volume, latency, and resource utilization](docs/screenshots/metrics-overview.png)
+
+![Metrics resource utilization panel](docs/screenshots/metrics-resource-utilization.png)
+
+![Metrics error rate distribution](docs/screenshots/metrics-error-rate.png)
+
+![Metrics error rate capture](docs/screenshots/metrics-error-rate-capture.png)
+
+### Demo Videos
+
+Demo videos can be added later in `docs/demo-videos/`. Suggested filenames:
+
+- `docs/demo-videos/full-demo.mp4`
+- `docs/demo-videos/queryforge-demo.mp4`
+- `docs/demo-videos/infrasage-demo.mp4`
+- `docs/demo-videos/metrics-demo.mp4`
 
 ## Why This Project Is Useful
 
