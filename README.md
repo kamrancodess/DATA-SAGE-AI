@@ -1,5 +1,7 @@
 # Data Sage AI
 
+> A Unified Cognitive Query Intelligence and Autonomous Data Analytics System - talk to your database in natural language, no SQL query required.
+
 Data Sage AI is a full-stack analytics demo with a Next.js frontend, a FastAPI backend, SQLite data, QueryForge natural-language SQL, InfraSage log analysis, live metrics, and demo insight panels.
 
 ## Project Structure
