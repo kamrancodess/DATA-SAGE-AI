@@ -6,6 +6,53 @@ Data Sage AI is a full-stack data intelligence platform that turns raw database 
 
 This project combines a modern Next.js frontend, a FastAPI backend, SQLite data storage, and a local Ollama/Qwen model for AI-assisted query generation.
 
+## Screenshots And Demo Videos
+
+The repository is prepared with dedicated folders for project media:
+
+- Screenshots: `docs/screenshots/`
+- Demo videos: `docs/demo-videos/`
+
+Add your real screenshots and demo videos using the filenames below, then GitHub will display or link them directly from this README.
+
+### Screenshots To Add
+
+| Section | File path | What it should show |
+|---|---|---|
+| Hero / Landing Page | `docs/screenshots/hero.png` | Main Data Sage AI landing page and navigation |
+| QueryForge | `docs/screenshots/queryforge.png` | Natural-language question, generated SQL, result chart, and table |
+| InfraSage | `docs/screenshots/infrasage.png` | Log input, detected issues, severity, timeline, and suggested fixes |
+| Metrics | `docs/screenshots/metrics.png` | Query volume, latency, resource utilization, and error-rate charts |
+| Insights | `docs/screenshots/insights.png` | Forecast, anomalies, user segments, and recommendation cards |
+
+After adding the screenshot files, uncomment or paste these image links into this section:
+
+```md
+![Data Sage AI Hero](docs/screenshots/hero.png)
+![QueryForge Dashboard](docs/screenshots/queryforge.png)
+![InfraSage Log Analysis](docs/screenshots/infrasage.png)
+![Metrics Dashboard](docs/screenshots/metrics.png)
+![Insights Intelligence Layer](docs/screenshots/insights.png)
+```
+
+### Demo Videos To Add
+
+| Demo | File path | What it should demonstrate |
+|---|---|---|
+| Full Product Walkthrough | `docs/demo-videos/full-demo.mp4` | Landing page, QueryForge, InfraSage, Metrics, and Insights |
+| QueryForge Demo | `docs/demo-videos/queryforge-demo.mp4` | Asking database questions and viewing SQL/results |
+| InfraSage Demo | `docs/demo-videos/infrasage-demo.mp4` | Pasting logs and receiving diagnosis/fixes |
+| Insights Demo | `docs/demo-videos/insights-demo.mp4` | Changing insight questions and viewing dynamic scenario outputs |
+
+After adding the video files, use these links:
+
+```md
+[Watch Full Demo](docs/demo-videos/full-demo.mp4)
+[Watch QueryForge Demo](docs/demo-videos/queryforge-demo.mp4)
+[Watch InfraSage Demo](docs/demo-videos/infrasage-demo.mp4)
+[Watch Insights Demo](docs/demo-videos/insights-demo.mp4)
+```
+
 ## Why This Project Is Useful
 
 Most people who need answers from data are not database engineers. They may know the business question, but not the SQL needed to answer it. Data Sage AI solves that gap by letting users ask questions like:
