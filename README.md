@@ -381,7 +381,6 @@ Then start the backend and frontend.
 - Add cloud deployment configuration.
 - Add a stronger production AI model option.
 - Add real-time streaming responses for long AI queries.
-- Add exportable PDF/CSV reports.
 - Add role-based access and database permissions.
 
 ## Status
