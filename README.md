@@ -8,12 +8,12 @@ This project combines a modern Next.js frontend, a FastAPI backend, SQLite data 
 
 ## Screenshots And Demo Videos
 
-The repository is prepared with dedicated folders for project media:
+Media folders are prepared, but real screenshot/video files have not been added yet:
 
 - Screenshots: `docs/screenshots/`
 - Demo videos: `docs/demo-videos/`
 
-Add your real screenshots and demo videos using the filenames below, then GitHub will display or link them directly from this README.
+Because the media files are not uploaded yet, the README intentionally does not display clickable media links here. This avoids broken GitHub links. Add your real files using the filenames below, then replace this note with the image/video links shown under "Markdown To Use After Adding Media".
 
 ### Screenshots To Add
 
@@ -25,16 +25,6 @@ Add your real screenshots and demo videos using the filenames below, then GitHub
 | Metrics | `docs/screenshots/metrics.png` | Query volume, latency, resource utilization, and error-rate charts |
 | Insights | `docs/screenshots/insights.png` | Forecast, anomalies, user segments, and recommendation cards |
 
-After adding the screenshot files, uncomment or paste these image links into this section:
-
-```md
-![Data Sage AI Hero](docs/screenshots/hero.png)
-![QueryForge Dashboard](docs/screenshots/queryforge.png)
-![InfraSage Log Analysis](docs/screenshots/infrasage.png)
-![Metrics Dashboard](docs/screenshots/metrics.png)
-![Insights Intelligence Layer](docs/screenshots/insights.png)
-```
-
 ### Demo Videos To Add
 
 | Demo | File path | What it should demonstrate |
@@ -44,7 +34,19 @@ After adding the screenshot files, uncomment or paste these image links into thi
 | InfraSage Demo | `docs/demo-videos/infrasage-demo.mp4` | Pasting logs and receiving diagnosis/fixes |
 | Insights Demo | `docs/demo-videos/insights-demo.mp4` | Changing insight questions and viewing dynamic scenario outputs |
 
-After adding the video files, use these links:
+### Markdown To Use After Adding Media
+
+Screenshot links:
+
+```md
+![Data Sage AI Hero](docs/screenshots/hero.png)
+![QueryForge Dashboard](docs/screenshots/queryforge.png)
+![InfraSage Log Analysis](docs/screenshots/infrasage.png)
+![Metrics Dashboard](docs/screenshots/metrics.png)
+![Insights Intelligence Layer](docs/screenshots/insights.png)
+```
+
+Video links:
 
 ```md
 [Watch Full Demo](docs/demo-videos/full-demo.mp4)
